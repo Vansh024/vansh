@@ -63,6 +63,7 @@ $(document).ready(function () {
           action: event.reason.linkAction
         };
       }
+      /////////////////////////////////////
       console.log('hello1');
       console.log(event);
       if (event && event.resp && event.resp.hasError) {
