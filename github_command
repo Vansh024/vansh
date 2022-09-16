@@ -1,0 +1,277 @@
+/////Github Token///////
+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
+======GIT COMMAND=======
+ 257  exit
+ 258  git clone https://github.com/morgan123789/vuesite.git
+ 259  cd vuesite
+ 260  ls
+ 261  git status
+ 262  git add .
+ 263  git push origin learn
+ 264  git commit -m "New file"
+ 265  git push origin learn
+ 266  git branch
+ 267  git checkout learn
+ 268  git branch learn
+ 269  git branch
+ 270  git checkout learn 
+ 271  git add .
+ 272  git commit -m "New vue file"
+ 273  git push origin learn
+ 274  git status
+ 275  git diff index.html
+ 276  git add .
+ 277  git config --global user.email "morgan@123789.org"
+ 278  git config user.name
+ 279  git config user.email
+ 280  git status
+ 281  git push origin learn
+ 282  git status
+ 283  git add .
+ 284  git commit -m "Comments removed"
+ 285  git push origin learn
+ 286  git status
+ 287  git checkout master
+ 288  git status
+ 289  git pull origin learn
+ 290  git status
+ 291  git branch
+ 292  git log
+ 293  exit
+ 294  ssh cheapoutdo@213.132.223.140 -p 2020 
+ 295  exit
+ 296  ssh cheapoutdo@213.132.223.140 -p 2020 
+ 297  exit
+ 298  ls
+ 299  zip -r tapet /tapet
+ 300  zip -r tapet /Pictures/tapet
+ 301  cd ..
+ 302  ls
+ 303  zip -r tapet /Pictures/tapet
+ 304  find /root -type f -name “tapet”
+ 305  sudo find /root -type f -name “tapet”
+ 306  sudo find /pictures -type f -name “tapet”
+ 307  sudo find /Pictures -type f -name “tapet”
+ 308  ls
+ 309  sudo find Pictures -type f -name “tapet”
+ 310  zip -r tapet Pictures/tapet
+ 311  exit
+ 312  sudo gedit httpd.conf
+ 313  cd ..
+ 314  sudo /opt/lampp/lampp status
+ 315  sudo /opt/lampp/lampp stop
+ 316  sudo /opt/lampp/lampp status
+ 317  sudo /opt/lampp/lampp start
+ 318  exit
+ 319  npm -v
+ 320  sudo apt install npm
+ 321  node -v
+ 322  sudo apt install npm
+ 323  node -v
+ 324  sudo npm install npm -g
+ 325  node -v
+ 326  sudo npm update  npm -g
+ 327  sudo apt-get remove nodejs ^node-* nodejs-*
+ 328  sudo apt-get autoremove
+ 329  sudo apt-get clean
+ 330  sudo npm install npm -g
+ 331  sudo apt intall npm g
+ 332  sudo apt intall npm -g
+ 333  sudo apt intall npm
+ 334  sudo apt install npm
+ 335  npm -v
+ 336  npm install -g npm@latest
+ 337  sudo npm install -g npm
+ 338  npm --help
+ 339  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+ 340  sudo apt  install curl
+ 341  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+ 342  sudo apt-get install -y nodejs
+ 343  sudo apt-get install -y node
+ 344  node --version
+ 345  nvm list
+ 346  curl -fsSL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+ 347  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+ 348  sudo apt update
+ 349  exit
+ 350  sudo apt update
+ 351  clear
+ 352  sudo apt update
+ 353  apt list --upgradable
+ 354  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+ 355  sudo apt install nodejs
+ 356  node --version
+ 357  nvm list
+ 358  node --version
+ 359  npm --version
+ 360  % curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+ 361  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+ 362  nvm lsit
+ 363  nvm list
+ 364  node --version
+ 365  npm --version
+ 366  nvm
+ 367  [[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh
+ 368  nvm
+ 369  nvm list
+ 370  nvm install node
+ 371  nvm --version
+ 372  node --version
+ 373  npm --version
+ 374  nvm list
+ 375  nvm install node 16.15.0
+ 376  nvm install 16.15.0
+ 377  nvm list
+ 378  nvm v18.7.0
+ 379  node --version
+ 380  nvm node 16.15.0
+ 381  nvm use 18
+ 382  nvm use 16
+ 383  nvm install 14.20.0
+ 384  nvm list
+ 385  nvm use 14
+ 386  nvm use 16
+ 387  nvm use 18
+ 388  nvm install 12.22.12
+ 389  nvm list
+ 390  nvm use 18
+ 391  exit
+ 392  git --version
+ 393  git clone https://github.com/cberescu/instars.git
+ 394  exit
+ 395  nodemod
+ 396  nodemon
+ 397  ls
+ 398  nodemon
+ 399  npx nodemon
+ 400  nodemon
+ 401  cd
+ 402  npm install -g nodemon
+ 403  cd /opt/lampp/htdocs//instars
+ 404  nodemon
+ 405  exit
+ 406  nodemon
+ 407  exit
+ 408  node mon
+ 409  nodemon
+ 410  npm intall 
+ 411  npm install 
+ 412  npm -v
+ 413  node -v
+ 414  node use 16
+ 415  nvm use 16
+ 416  nodemon
+ 417  npx nodemon
+ 418  node -v
+ 419  nodemon
+ 420  cd ..
+ 421  cd
+ 422  npm install -g nodemon
+ 423  cd /opt/lampp/htdocs/instars/
+ 424  node -v
+ 425  nodemon
+ 426  npm install
+ 427  npm audit
+ 428  nodemon
+ 429  git pull origin master
+ 430  nodemon
+ 431  ls
+ 432  rm -rf node_modules/
+ 433  ls
+ 434  npm install
+ 435  nodemon
+ 436  cd 
+ 437  cd /opt/lampp/htdocs/
+ 438  git clone https://github.com/cberescu/instarsfront.git
+ 439  cd instarsfront/
+ 440  npm nserve
+ 441  npm run serve
+ 442  cd
+ 443  npm i @vue/cli-service
+ 444  cd /opt/lampp/htdocs/
+ 445  cd instarsfront/
+ 446  npm run serve
+ 447  npm i @vue/cli-service
+ 448  npm run serve
+ 449  exit
+ 450  git status
+ 451  git branch
+ 452  git checkout task98
+ 453  git branch
+ 454  git branch task98
+ 455  git branch
+ 456  git checkout task98
+ 457  git status
+ 458  git diff components/campaigns/campaigns.controller.js
+ 459  git diff components/campaigns/subscription.js
+ 460  git config --global user.name
+ 461  git config user.name 'Himanshu Rehani'
+ 462  git config --global user.name
+ 463  git config --global user.name 'Himanshu Rehani'
+ 464  git config --global user.name
+ 465  git config --global user.email 'himanshurehani@nethues.com'
+ 466  git config user.email 'himanshurehani@nethues.com'
+ 467  git config --global user.email
+ 468  git config user.email
+ 469  git config user.name
+ 470  git config --global user.name
+ 471  git add . 
+ 472  git commit -m 'Total budget changes'
+ 473  git push origin task98
+ 474  git log
+ 475  git status
+ 476  git branch
+ 477  git branch master
+ 478  git status
+ 479  exit
+ 480  nodemon
+ 481  nvm use 16
+ 482  nodemon
+ 483  node --v
+ 484  node --version
+ 485  nodemon
+ 486  git status
+ 487  git diff components/users/user.js
+ 488  git pull origin master
+ 489  nodemon
+ 490  git status
+ 491  nodemon
+ 492  exit
+ 493  npm run serve
+ 494  node -v
+ 495  nvm use 16
+ 496  npm run serve
+ 497  exit
+ 498  git status
+ 499  git checkout master
+ 500  git status
+ 501  git log
+ 502  exit
+ 503  npm run serve
+ 504  nvm use 16
+ 505  npm run serve
+ 506  exit
+ 507  nvm use 16
+ 508  nodemon
+ 509  exit
+ 510  git status
+ 511  git diff components/users/userEmails.js
+ 512  git status
+ 513  git diff components/users/userEmails.js
+ 514  git status
+ 515  git diff components/users/users.controller.js
+ 516  git status
+ 517  git diff components/users/userEmails.js
+ 518  git branch
+ 519  git checkout task99
+ 520  git checkout branch task99
+ 521  git branch
+ 522  git checkout task98
+ 523  git status
+ 524  git add .
+ 525  git commit -m 'Skipped brand email validation'
+ 526  git push origin task98
+ 527  git status
+ 528  exit
+ 529  nvm use 16
+
