@@ -51,7 +51,7 @@ $(document).ready(function () {
     function (event) {
       var refreshURL = $('.blockcart').data('refresh-url');
       console.log(refreshURL);
-
+/////
       var requestData = {};
       if (event && event.reason && typeof event.resp !== 'undefined' && !event.resp.hasError) {
         console.log('hello');
