@@ -275,3 +275,8 @@ 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
  528  exit
  529  nvm use 16
 
+ 530  Delete file from git: 
+        $ git rm <file>
+        $ git commit -m "Deleted the file from the git repository"
+        $ git push
+
