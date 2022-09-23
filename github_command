@@ -280,3 +280,8 @@ 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
         $ git commit -m "Deleted the file from the git repository"
         $ git push
 
+531   Delete folder from git:
+      git rm -r --cached FolderName
+      git commit -m "Removed folder from repository"
+      git push origin master
+
